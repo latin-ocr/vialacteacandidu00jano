@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vialacteacandidu00jano_0060.png"; bbox 0 0 1706 3037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1017 1854 1177 1909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1017 1854 1152 1909">
+     <span class='ocr_line' id='line_1_1' title="bbox 1017 1854 1095 1892; baseline 0 -36"><span class='ocrx_word' id='word_1_1' title='bbox 1017 1854 1095 1892; x_wconf 41' lang='grc' dir='ltr'><strong>Νι.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1076 1870 1177 1909; baseline -0.013 0"><span class='ocrx_word' id='word_1_2' title='bbox 1076 1870 1177 1909; x_wconf 52' lang='lat'><strong>123³*-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 488 1884 1459 2003">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 488 1884 1459 2003">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 1884 1459 2003; baseline -0.019 -38"><span class='ocrx_word' id='word_1_3' title='bbox 488 1904 631 1977; x_wconf 39' lang='grc' dir='ltr'><strong>’ΛΝ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 672 1932 705 1959; x_wconf 59' lang='lat'><strong>*5</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 721 1934 730 1957; x_wconf 53' lang='grc' dir='ltr'><strong>ς</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 738 1927 824 2005; x_wconf 38' lang='lat' dir='ltr'><strong>*ix</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 838 1907 989 1971; x_wconf 52' lang='grc' dir='ltr'><strong>ΜἘᾋΙ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1002 1884 1047 1986; x_wconf 45' lang='lat'><strong>3²²</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1064 1902 1183 1962; x_wconf 51' lang='grc' dir='ltr'><strong>δύω</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1197 1890 1459 2003; x_wconf 41' lang='lat' dir='ltr'><strong>‘az‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 218 1976 1682 2122">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 218 1973 1682 2122">
+     <span class='ocr_line' id='line_1_4' title="bbox 218 1976 1682 2122; baseline -0.016 -7"><span class='ocrx_word' id='word_1_11' title='bbox 218 2052 405 2122; x_wconf 59' lang='lat' dir='ltr'><strong>‘mun</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 378 2012 879 2115; x_wconf 35' lang='lat' dir='ltr'><strong>*ebs-*Qunam</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 878 2015 1041 2094; x_wconf 46' lang='lat' dir='ltr'><strong>&amp;ck</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1047 1976 1495 2098; x_wconf 51' lang='lat' dir='ltr'><strong>amnia-{cham}</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1675 2059 1682 2067; x_wconf 80' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1706 3037">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1706 3037">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1706 3037; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1706 3037; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
